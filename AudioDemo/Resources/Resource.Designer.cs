@@ -66,6 +66,9 @@ namespace AudioDemo
 			// aapt resource value: 0x7f060000
 			public const int buttonStart = 2131099648;
 			
+			// aapt resource value: 0x7f060003
+			public const int seekBarPlayer = 2131099651;
+			
 			// aapt resource value: 0x7f060002
 			public const int seekBarVolumeControl = 2131099650;
 			
