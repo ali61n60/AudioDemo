@@ -13,4 +13,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/buttonPause" />
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBarVolumeControl"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp"
+        android:max="1000" />
 </LinearLayout>
