@@ -59,6 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="finance\AliNejatResumeV10En.doc" />
+    <None Include="finance\AliNejatResumeV10En.pdf" />
+    <None Include="finance\CoverLetter.docx" />
     <None Include="finance\finance.xlsx" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Resources\AboutResources.txt" />
