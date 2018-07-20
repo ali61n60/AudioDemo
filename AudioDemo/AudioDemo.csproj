@@ -65,6 +65,11 @@
     <None Include="GettingStarted.Xamarin" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
+    <None Include="Resume\computer-programmer-entry-level.doc" />
+    <None Include="Resume\computer-programmer-experienced.doc" />
+    <None Include="Resume\computer-programmer-midlevel.doc" />
+    <None Include="Resume\MyResumeContent.docx" />
+    <None Include="Resume\tips.docx" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">
@@ -82,6 +87,10 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\raw\rip.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resume\1 usrt2nX5MI9r0raHqTMukA.jpeg" />
+    <Content Include="Resume\programmer_resume_samples.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
