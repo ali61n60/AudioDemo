@@ -63,6 +63,7 @@
     <None Include="finance\CoverLetter.docx" />
     <None Include="finance\finance.xlsx" />
     <None Include="GettingStarted.Xamarin" />
+    <None Include="Learning\DesignPatterns.docx" />
     <None Include="Learning\Scalability.docx" />
     <None Include="Learning\TODOs.xlsx" />
     <None Include="Resources\AboutResources.txt" />
