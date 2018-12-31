@@ -62,6 +62,7 @@
     <None Include="finance\CoverLetter.docx" />
     <None Include="finance\finance.xlsx" />
     <None Include="finance\goldCoin\Gold.Coin.9712.csv" />
+    <None Include="finance\Pardis.Invsetment.xlsx" />
     <None Include="finance\Shazand.Petr..xlsx" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Learning\DesignPatterns.docx" />
