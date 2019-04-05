@@ -69,6 +69,7 @@
     <None Include="Learning\DesignPatterns.docx" />
     <None Include="Learning\FPGA\FPGA or DSP.docx" />
     <None Include="Learning\FPGA\New Microsoft Word Document.docx" />
+    <None Include="Learning\FPGA\Verilog Quickstart - Practical Guide to Simulation &amp; Synthesis in Verilog.[2002].3rd Ed.pdf" />
     <None Include="Learning\FPGA\verilog.docx" />
     <None Include="Learning\InternetWorking.docx" />
     <None Include="Learning\Scalability.docx" />
