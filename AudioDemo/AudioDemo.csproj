@@ -65,6 +65,7 @@
     <None Include="finance\goldCoin\Gold.Coin.9712.csv" />
     <None Include="finance\Pardis.Invsetment.xlsx" />
     <None Include="finance\Shazand.Petr..xlsx" />
+    <None Include="finance\Toefl\Speking Notes.docx" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Learning\DesignPatterns.docx" />
     <None Include="Learning\FPGA\FPGA or DSP.docx" />
