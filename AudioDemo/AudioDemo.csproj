@@ -63,6 +63,7 @@
     <None Include="finance\CoverLetter.docx" />
     <None Include="finance\FGPANeedToKnow.docx" />
     <None Include="finance\finance.xlsx" />
+    <None Include="finance\FPGA.docx" />
     <None Include="finance\Ghadir Inv..csv" />
     <None Include="finance\goldCoin\Gold.Coin.9712.csv" />
     <None Include="finance\Pardis.Invsetment.xlsx" />
