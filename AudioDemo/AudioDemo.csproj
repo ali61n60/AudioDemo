@@ -72,6 +72,8 @@
     <None Include="finance\Toefl\Speking Notes.docx" />
     <None Include="finance\Toefl\Vocabulary.docx" />
     <None Include="finance\Toefl\Writing Notes.docx" />
+    <None Include="finance\Translation\Computer Security of Instrumentation and Control Systems at Nuclear Facilities.pdf" />
+    <None Include="finance\Translation\TranslatedDocument.docx" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Learning\DesignPatterns.docx" />
     <None Include="Learning\FPGA\FPGA or DSP.docx" />
