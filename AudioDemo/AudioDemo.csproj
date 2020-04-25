@@ -76,6 +76,8 @@
     <None Include="finance\Translation\Completed.pdf" />
     <None Include="finance\Translation\Computer Security of Instrumentation and Control Systems at Nuclear Facilities.pdf" />
     <None Include="finance\Translation\TranslatedDocument.docx" />
+    <None Include="finance\Translation\TranslationSection1-2-3.docx" />
+    <None Include="finance\Translation\TranslationSection1-2-3.pdf" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="Learning\DesignPatterns.docx" />
     <None Include="Learning\FPGA\FPGA or DSP.docx" />
